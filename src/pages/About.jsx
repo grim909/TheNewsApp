@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div>
           published the app sourcecode at github..
-          <a href="https://github.com/grim909/">chick here to visit github</a>
+          <a href="https://github.com/grim909/TheNewsApp">chick here to visit github</a>
         </div>
       </div>
     </div>
