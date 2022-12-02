@@ -17,5 +17,5 @@ the app won't run as a production build app as newsApi developers build cors are
 > to run app at <Localhost:3000>
 
 # screenshots
-![screenshot 1](/src/assets/screenshot 1.png "screenshot 1")
-![screenshot 2](/src/assets/screenshot 2.png "screenshot 2")
+![screenshot 1](src/assets/screenshot 1.png "screenshot 1")
+![screenshot 2](src/assets/screenshot 2.png "screenshot 2")
