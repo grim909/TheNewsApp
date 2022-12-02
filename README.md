@@ -16,6 +16,6 @@ the app won't run as a production build app as newsApi developers build cors are
 >> `npm run dev` 
 > to run app at <Localhost:3000>
 
-# screenshots
-![screenshot 1](src/assets/screenshot 1.png "screenshot 1")
-![screenshot 2](src/assets/screenshot 2.png "screenshot 2")
+# screenshots:
+<a href="https://github.com/grim909/TheNewsApp/blob/main/src/assets/screenshot%201.png">screenshot 1</a>
+<a href="https://github.com/grim909/TheNewsApp/blob/main/src/assets/screenshot%202.png">screenshot 2</a>
